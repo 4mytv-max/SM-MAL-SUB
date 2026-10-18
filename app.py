@@ -711,7 +711,7 @@ def debug_msone(rid):
 def manifest():
     return jsonify({
         "id": "com.smmal.subtitles",
-        "version": "1.2.6",
+        "version": "1.2.7",
         "name": "SM MAL SUB",
         "description": "Malayalam subtitles from Movie Mirror + Team GOAT "
                        "+ Msone (official addon). Live search: new subtitles "
